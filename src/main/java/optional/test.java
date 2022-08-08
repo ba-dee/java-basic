@@ -13,6 +13,5 @@ public class test {
 
         //比较两个 Optional
         System.out.println(Optional.ofNullable("apple").equals("apple"));
-
     }
 }
